@@ -7,34 +7,9 @@
 
 This repository contains two data analytics projects completed during my internship at **internee.pk**, built using Python, Pandas, and Matplotlib in Google Colab.
 
----
 
-## 📁 Project 1 — Internship Completion Rate Analysis
 
-### What it does
-Analyzes 8,500+ real learner records to identify key factors behind internship completion and dropout rates.
-
-### Key Findings
-- Mentor interaction is the **#1 predictor** of completion
-- Internships under 6 weeks have **<50% completion rate**
-- **Workload mismatch** is the top dropout reason (34%)
-- Engineering & Data Science departments outperform others
-
-### Charts included
-- Status breakdown (who completed, who dropped out)
-- Completion rate by country (top 10)
-- Completion vs dropout by gender
-- Monthly signup trend over time
-- Top programs by enrollment
-
-### File
-```
-internship_analysis.py
-```
-
----
-
-## 📁 Project 2 — Intern Performance Tracking System
+## 📁 Project  — Intern Performance Tracking System
 
 ### What it does
 Builds a KPI-based scoring system that combines 4 metrics into one performance score out of 100, then visualizes it across departments and months.
